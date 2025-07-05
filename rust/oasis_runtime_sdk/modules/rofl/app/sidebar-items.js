@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["client","init","prelude"],"struct":["Environment"],"trait":["App"]};

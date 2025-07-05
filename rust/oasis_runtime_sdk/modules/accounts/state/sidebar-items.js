@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["ACCOUNTS","ALLOWANCES","BALANCES","TOTAL_SUPPLY"]};
